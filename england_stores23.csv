@@ -1,0 +1,163 @@
+store_id,company,region,city,store_format
+S0001,Waterstones,London,London,Medium
+S0002,Waterstones,London,London,Small
+S0003,Waterstones,London,London,Large
+S0004,Waterstones,London,London,Medium
+S0005,Waterstones,London,London,Medium
+S0006,Waterstones,London,London,Small
+S0007,Waterstones,London,London,Small
+S0008,Waterstones,London,London,Medium
+S0009,Waterstones,London,London,Small
+S0010,Waterstones,South East,Oxford,Small
+S0011,Waterstones,South East,Oxford,Small
+S0012,Waterstones,South East,Portsmouth,Medium
+S0013,Waterstones,South East,Portsmouth,Large
+S0014,Waterstones,South East,Oxford,Small
+S0015,Waterstones,South East,Reading,Medium
+S0016,Waterstones,South East,Portsmouth,Small
+S0017,Waterstones,South East,Reading,Medium
+S0018,Waterstones,South West,Bristol,Medium
+S0019,Waterstones,South West,Bath,Medium
+S0020,Waterstones,South West,Bournemouth,Small
+S0021,Waterstones,South West,Bath,Medium
+S0022,Waterstones,South West,Plymouth,Small
+S0023,Waterstones,East of England,Cambridge,Medium
+S0024,Waterstones,West Midlands,Birmingham,Medium
+S0025,Waterstones,West Midlands,Birmingham,Medium
+S0026,Waterstones,West Midlands,Wolverhampton,Medium
+S0027,Waterstones,West Midlands,Coventry,Medium
+S0028,Waterstones,West Midlands,Coventry,Medium
+S0029,Waterstones,West Midlands,Coventry,Small
+S0030,Waterstones,East Midlands,Leicester,Small
+S0031,Waterstones,North West,Liverpool,Small
+S0032,Waterstones,North West,Lancaster,Medium
+S0033,Waterstones,North West,Liverpool,Medium
+S0034,Waterstones,North West,Preston,Medium
+S0035,Waterstones,North East,Middlesbrough,Small
+S0036,Waterstones,North East,Newcastle,Medium
+S0037,Waterstones,North East,Newcastle,Medium
+S0038,Waterstones,Yorkshire & Humber,Hull,Medium
+S0039,Waterstones,Yorkshire & Humber,Leeds,Small
+S0040,WHSmith (High Street),London,London,Small
+S0041,WHSmith (High Street),London,London,Large
+S0042,WHSmith (High Street),London,London,Large
+S0043,WHSmith (High Street),London,London,Medium
+S0044,WHSmith (High Street),London,London,Small
+S0045,WHSmith (High Street),South East,Oxford,Medium
+S0046,WHSmith (High Street),South East,Milton Keynes,Small
+S0047,WHSmith (High Street),South East,Portsmouth,Medium
+S0048,WHSmith (High Street),South East,Reading,Small
+S0049,WHSmith (High Street),South East,Oxford,Medium
+S0050,WHSmith (High Street),South East,Milton Keynes,Medium
+S0051,WHSmith (High Street),South West,Plymouth,Small
+S0052,WHSmith (High Street),South West,Exeter,Medium
+S0053,WHSmith (High Street),South West,Bristol,Small
+S0054,WHSmith (High Street),South West,Bath,Small
+S0055,WHSmith (High Street),South West,Bristol,Small
+S0056,WHSmith (High Street),East of England,Ipswich,Large
+S0057,WHSmith (High Street),East of England,Norwich,Medium
+S0058,WHSmith (High Street),East of England,Norwich,Small
+S0059,WHSmith (High Street),East of England,Norwich,Medium
+S0060,WHSmith (High Street),East of England,Norwich,Large
+S0061,WHSmith (High Street),West Midlands,Wolverhampton,Medium
+S0062,WHSmith (High Street),West Midlands,Birmingham,Small
+S0063,WHSmith (High Street),West Midlands,Birmingham,Medium
+S0064,WHSmith (High Street),East Midlands,Nottingham,Medium
+S0065,WHSmith (High Street),East Midlands,Leicester,Medium
+S0066,WHSmith (High Street),North West,Manchester,Large
+S0067,WHSmith (High Street),North West,Lancaster,Small
+S0068,WHSmith (High Street),North West,Manchester,Medium
+S0069,WHSmith (High Street),North West,Preston,Medium
+S0070,WHSmith (High Street),North West,Liverpool,Medium
+S0071,WHSmith (High Street),North East,Sunderland,Small
+S0072,WHSmith (High Street),North East,Sunderland,Large
+S0073,WHSmith (High Street),North East,Newcastle,Small
+S0074,WHSmith (High Street),Yorkshire & Humber,Leeds,Medium
+S0075,WHSmith (High Street),Yorkshire & Humber,Sheffield,Small
+S0076,WHSmith (High Street),Yorkshire & Humber,York,Small
+S0077,WHSmith (High Street),Yorkshire & Humber,York,Small
+S0078,WHSmith (High Street),Yorkshire & Humber,York,Large
+S0079,WHSmith (High Street),Yorkshire & Humber,Hull,Small
+S0080,WHSmith (High Street),Yorkshire & Humber,Leeds,Medium
+S0081,WHSmith (High Street),Yorkshire & Humber,Hull,Small
+S0082,Independent Bookshop,London,London,Medium
+S0083,Independent Bookshop,London,London,Large
+S0084,Independent Bookshop,London,London,Medium
+S0085,Independent Bookshop,London,London,Small
+S0086,Independent Bookshop,South East,Brighton,Small
+S0087,Independent Bookshop,South West,Bath,Medium
+S0088,Independent Bookshop,South West,Exeter,Medium
+S0089,Independent Bookshop,South West,Exeter,Medium
+S0090,Independent Bookshop,East of England,Cambridge,Small
+S0091,Independent Bookshop,East of England,Ipswich,Small
+S0092,Independent Bookshop,East of England,Chelmsford,Small
+S0093,Independent Bookshop,West Midlands,Wolverhampton,Small
+S0094,Independent Bookshop,West Midlands,Wolverhampton,Medium
+S0095,Independent Bookshop,West Midlands,Birmingham,Small
+S0096,Independent Bookshop,West Midlands,Coventry,Small
+S0097,Independent Bookshop,East Midlands,Derby,Small
+S0098,Independent Bookshop,East Midlands,Lincoln,Small
+S0099,Independent Bookshop,East Midlands,Leicester,Medium
+S0100,Independent Bookshop,East Midlands,Lincoln,Small
+S0101,Independent Bookshop,East Midlands,Leicester,Medium
+S0102,Independent Bookshop,East Midlands,Derby,Large
+S0103,Independent Bookshop,North West,Manchester,Large
+S0104,Independent Bookshop,North West,Preston,Medium
+S0105,Independent Bookshop,North West,Preston,Small
+S0106,Independent Bookshop,North West,Manchester,Medium
+S0107,Independent Bookshop,North East,Middlesbrough,Medium
+S0108,Independent Bookshop,North East,Newcastle,Small
+S0109,Independent Bookshop,Yorkshire & Humber,Hull,Small
+S0110,Independent Bookshop,Yorkshire & Humber,Hull,Small
+S0111,Independent Bookshop,Yorkshire & Humber,York,Small
+S0112,University Bookshop,London,London,Small
+S0113,University Bookshop,South East,Brighton,Small
+S0114,University Bookshop,South West,Bournemouth,Medium
+S0115,University Bookshop,South West,Bath,Large
+S0116,University Bookshop,South West,Plymouth,Small
+S0117,University Bookshop,East of England,Chelmsford,Small
+S0118,University Bookshop,East of England,Ipswich,Small
+S0119,University Bookshop,West Midlands,Coventry,Small
+S0120,University Bookshop,East Midlands,Nottingham,Small
+S0121,University Bookshop,East Midlands,Lincoln,Large
+S0122,University Bookshop,North West,Lancaster,Large
+S0123,University Bookshop,North East,Middlesbrough,Small
+S0124,University Bookshop,North East,Middlesbrough,Medium
+S0125,University Bookshop,North East,Sunderland,Large
+S0126,University Bookshop,North East,Middlesbrough,Small
+S0127,University Bookshop,North East,Sunderland,Medium
+S0128,University Bookshop,Yorkshire & Humber,Sheffield,Small
+S0129,University Bookshop,Yorkshire & Humber,Sheffield,Small
+S0130,Supermarket Books,London,London,Small
+S0131,Supermarket Books,London,London,Small
+S0132,Supermarket Books,South East,Portsmouth,Medium
+S0133,Supermarket Books,South East,Reading,Medium
+S0134,Supermarket Books,South East,Oxford,Medium
+S0135,Supermarket Books,South East,Canterbury,Medium
+S0136,Supermarket Books,South East,Portsmouth,Small
+S0137,Supermarket Books,South West,Plymouth,Large
+S0138,Supermarket Books,South West,Bournemouth,Medium
+S0139,Supermarket Books,South West,Bristol,Small
+S0140,Supermarket Books,East of England,Ipswich,Small
+S0141,Supermarket Books,East of England,Chelmsford,Large
+S0142,Supermarket Books,West Midlands,Wolverhampton,Small
+S0143,Supermarket Books,West Midlands,Coventry,Medium
+S0144,Supermarket Books,West Midlands,Birmingham,Medium
+S0145,Supermarket Books,West Midlands,Birmingham,Medium
+S0146,Supermarket Books,West Midlands,Coventry,Medium
+S0147,Supermarket Books,West Midlands,Coventry,Medium
+S0148,Supermarket Books,East Midlands,Lincoln,Small
+S0149,Supermarket Books,East Midlands,Nottingham,Medium
+S0150,Supermarket Books,East Midlands,Derby,Medium
+S0151,Supermarket Books,East Midlands,Leicester,Medium
+S0152,Supermarket Books,East Midlands,Derby,Large
+S0153,Supermarket Books,North West,Liverpool,Small
+S0154,Supermarket Books,North West,Liverpool,Small
+S0155,Supermarket Books,North West,Manchester,Large
+S0156,Supermarket Books,North East,Newcastle,Large
+S0157,Supermarket Books,North East,Sunderland,Medium
+S0158,Supermarket Books,North East,Sunderland,Small
+S0159,Supermarket Books,Yorkshire & Humber,Sheffield,Large
+S0160,Supermarket Books,Yorkshire & Humber,Hull,Small
+S0161,Supermarket Books,Yorkshire & Humber,York,Medium
+S0162,Supermarket Books,Yorkshire & Humber,Leeds,Small

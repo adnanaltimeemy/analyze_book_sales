@@ -1,0 +1,13 @@
+# Create catalog dataset
+catalog = pd.DataFrame({
+    "Title": ["Hellraiser", "Books of Blood", "Candyman"],
+    "Format": ["Book", "Book", "DVD"],
+    "Price": [12.99, 10.99, 14.99],
+    "Cost": [6.50, 5.00, 7.50]
+})
+
+# Calculate profit per unit
+catalog["Profit_per_Unit"] = catalog["Price"] - catalog["Cost"]
+
+# Export to CSV
+catalog.to_csv("clive_barker_catalog.csv", index=False)

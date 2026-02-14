@@ -1,0 +1,22 @@
+# Merge stores with sales
+sales_demo = sales.merge(stores, on=["Store_ID", "Store_Name"], how="left")
+
+# Group by demographic
+demo_company = sales_demo.groupby(
+    "Demographic",
+    as_index=False
+).agg({
+    "Units_Sold": "sum",
+    "Revenue": "sum",
+    "Profit": "sum"
+})
+
+# Rename columns
+demo_company = demo_company.rename(columns={
+    "Units_Sold": "Total_Units_Sold",
+    "Revenue": "Total_Revenue",
+    "Profit": "Total_Profit"
+})
+
+# Export to CSV
+demo_company.to_csv("company_demographics_summary.csv", index=False)
