@@ -1,0 +1,481 @@
+City,Company,Age Group,Customer Type,Weekly Sales,Price (£),Weekly Revenue (£),Weekly Profit (£),Yearly Profit (£)
+London,Waterstones,18-25,Student,182,12.78,2325.82,814.04,42330.01
+London,Waterstones,18-25,Professional,94,12.39,1164.84,407.7,21200.17
+London,Waterstones,18-25,Academic,268,11.58,3103.74,1086.31,56487.98
+London,Waterstones,18-25,SciFi Enthusiast,201,8.94,1796.13,628.65,32689.55
+London,Waterstones,18-25,Collector,154,10.76,1656.35,579.72,30145.5
+London,Waterstones,26-35,Student,196,11.61,2274.91,796.22,41403.38
+London,Waterstones,26-35,Professional,231,11.91,2750.13,962.55,50052.39
+London,Waterstones,26-35,Academic,132,13.82,1824.17,638.46,33199.87
+London,Waterstones,26-35,SciFi Enthusiast,237,9.27,2197.95,769.28,40002.62
+London,Waterstones,26-35,Collector,271,13.95,3781.34,1323.47,68820.32
+London,Waterstones,36-45,Student,240,9.83,2358.11,825.34,42917.58
+London,Waterstones,36-45,Professional,101,8.04,812.28,284.3,14783.54
+London,Waterstones,36-45,Academic,168,9.75,1637.56,573.15,29803.57
+London,Waterstones,36-45,SciFi Enthusiast,138,10.4,1435.08,502.28,26118.54
+London,Waterstones,36-45,Collector,299,13.84,4138.92,1448.62,75328.3
+London,Waterstones,46-55,Student,94,10.74,1009.22,353.23,18367.87
+London,Waterstones,46-55,Professional,254,11.71,2974.42,1041.05,54134.45
+London,Waterstones,46-55,Academic,187,11.09,2072.97,725.54,37728.07
+London,Waterstones,46-55,SciFi Enthusiast,143,10.8,1544.48,540.57,28109.58
+London,Waterstones,46-55,Collector,130,12.08,1570.64,549.72,28585.65
+London,Waterstones,56-65,Student,152,8.39,1275.33,446.36,23210.95
+London,Waterstones,56-65,Professional,211,13.65,2880.83,1008.29,52431.06
+London,Waterstones,56-65,Academic,93,12.85,1195.09,418.28,21750.56
+London,Waterstones,56-65,SciFi Enthusiast,88,8.1,712.43,249.35,12966.23
+London,Waterstones,56-65,Collector,209,12.11,2530.03,885.51,46046.51
+London,Waterstones,65+,Student,190,12.1,2298.92,804.62,41840.35
+London,Waterstones,65+,Professional,251,10.97,2753.74,963.81,50118.0
+London,Waterstones,65+,Academic,254,9.04,2296.21,803.67,41790.98
+London,Waterstones,65+,SciFi Enthusiast,160,9.55,1528.43,534.95,27817.4
+London,Waterstones,65+,Collector,183,12.53,2293.39,802.69,41739.64
+London,Independent,18-25,Student,25,11.66,291.59,131.21,6823.17
+London,Independent,18-25,Professional,23,11.48,264.01,118.81,6177.91
+London,Independent,18-25,Academic,82,16.74,1372.54,617.64,32117.41
+London,Independent,18-25,SciFi Enthusiast,63,17.52,1103.51,496.58,25822.07
+London,Independent,18-25,Collector,81,17.41,1410.47,634.71,33005.11
+London,Independent,26-35,Student,114,17.37,1980.75,891.34,46349.53
+London,Independent,26-35,Professional,91,14.56,1325.28,596.38,31011.63
+London,Independent,26-35,Academic,81,12.6,1020.81,459.37,23887.05
+London,Independent,26-35,SciFi Enthusiast,99,15.98,1581.88,711.84,37015.93
+London,Independent,26-35,Collector,72,14.69,1057.97,476.09,24756.47
+London,Independent,36-45,Student,108,12.25,1322.73,595.23,30951.82
+London,Independent,36-45,Professional,60,12.37,742.21,334.0,17367.74
+London,Independent,36-45,Academic,64,10.6,678.17,305.18,15869.18
+London,Independent,36-45,SciFi Enthusiast,90,13.39,1204.85,542.18,28193.47
+London,Independent,36-45,Collector,20,11.59,231.79,104.31,5423.99
+London,Independent,46-55,Student,107,10.11,1082.05,486.92,25320.02
+London,Independent,46-55,Professional,100,15.69,1569.07,706.08,36716.32
+London,Independent,46-55,Academic,54,16.17,873.19,392.93,20432.62
+London,Independent,46-55,SciFi Enthusiast,24,17.41,417.85,188.03,9777.68
+London,Independent,46-55,Collector,60,17.32,1039.18,467.63,24316.83
+London,Independent,56-65,Student,92,14.99,1378.75,620.44,32262.69
+London,Independent,56-65,Professional,53,10.76,570.45,256.7,13348.62
+London,Independent,56-65,Academic,42,15.35,644.73,290.13,15086.7
+London,Independent,56-65,SciFi Enthusiast,56,15.84,886.86,399.09,20752.61
+London,Independent,56-65,Collector,105,17.1,1795.26,807.87,42009.05
+London,Independent,65+,Student,84,13.06,1097.33,493.8,25677.45
+London,Independent,65+,Professional,66,15.71,1036.59,466.47,24256.28
+London,Independent,65+,Academic,20,15.77,315.48,141.96,7382.16
+London,Independent,65+,SciFi Enthusiast,33,13.95,460.36,207.16,10772.47
+London,Independent,65+,Collector,28,15.69,439.19,197.63,10277.01
+Manchester,Waterstones,18-25,Student,169,8.15,1377.77,482.22,25075.5
+Manchester,Waterstones,18-25,Professional,284,9.21,2615.73,915.51,47606.28
+Manchester,Waterstones,18-25,Academic,175,11.82,2068.23,723.88,37641.8
+Manchester,Waterstones,18-25,SciFi Enthusiast,131,11.38,1490.73,521.76,27131.37
+Manchester,Waterstones,18-25,Collector,211,13.45,2836.98,992.94,51633.02
+Manchester,Waterstones,26-35,Student,230,11.63,2674.1,935.93,48668.55
+Manchester,Waterstones,26-35,Professional,222,12.53,2782.39,973.84,50639.57
+Manchester,Waterstones,26-35,Academic,115,13.66,1570.57,549.7,28584.36
+Manchester,Waterstones,26-35,SciFi Enthusiast,150,9.74,1460.78,511.27,26586.13
+Manchester,Waterstones,26-35,Collector,165,13.28,2191.66,767.08,39888.27
+Manchester,Waterstones,36-45,Student,249,12.85,3199.33,1119.77,58227.84
+Manchester,Waterstones,36-45,Professional,264,8.63,2279.1,797.69,41479.67
+Manchester,Waterstones,36-45,Academic,107,12.82,1371.96,480.19,24969.63
+Manchester,Waterstones,36-45,SciFi Enthusiast,123,10.5,1291.38,451.98,23503.2
+Manchester,Waterstones,36-45,Collector,269,11.24,3022.5,1057.87,55009.47
+Manchester,Waterstones,46-55,Student,171,10.14,1733.56,606.75,31550.82
+Manchester,Waterstones,46-55,Professional,269,8.66,2329.62,815.37,42399.15
+Manchester,Waterstones,46-55,Academic,200,11.89,2377.23,832.03,43265.55
+Manchester,Waterstones,46-55,SciFi Enthusiast,200,12.91,2581.62,903.57,46985.44
+Manchester,Waterstones,46-55,Collector,82,8.04,659.42,230.8,12001.45
+Manchester,Waterstones,56-65,Student,279,11.2,3126.07,1094.12,56894.4
+Manchester,Waterstones,56-65,Professional,141,9.33,1315.9,460.57,23949.44
+Manchester,Waterstones,56-65,Academic,130,9.62,1250.14,437.55,22752.58
+Manchester,Waterstones,56-65,SciFi Enthusiast,231,13.66,3154.87,1104.21,57418.69
+Manchester,Waterstones,56-65,Collector,197,9.31,1834.58,642.1,33389.34
+Manchester,Waterstones,65+,Student,295,12.22,3604.34,1261.52,65599.05
+Manchester,Waterstones,65+,Professional,192,8.39,1610.76,563.76,29315.76
+Manchester,Waterstones,65+,Academic,265,13.77,3650.29,1277.6,66435.3
+Manchester,Waterstones,65+,SciFi Enthusiast,118,10.98,1296.05,453.62,23588.15
+Manchester,Waterstones,65+,Collector,192,8.89,1706.6,597.31,31060.05
+Manchester,Independent,18-25,Student,75,10.3,772.13,347.46,18067.89
+Manchester,Independent,18-25,Professional,21,14.02,294.45,132.5,6890.13
+Manchester,Independent,18-25,Academic,73,10.26,749.3,337.19,17533.66
+Manchester,Independent,18-25,SciFi Enthusiast,115,17.27,1985.6,893.52,46463.15
+Manchester,Independent,18-25,Collector,38,15.45,586.93,264.12,13734.27
+Manchester,Independent,26-35,Student,72,13.92,1001.92,450.87,23445.04
+Manchester,Independent,26-35,Professional,51,14.42,735.58,331.01,17212.58
+Manchester,Independent,26-35,Academic,87,10.65,926.27,416.82,21674.81
+Manchester,Independent,26-35,SciFi Enthusiast,75,11.9,892.58,401.66,20886.43
+Manchester,Independent,26-35,Collector,57,12.94,737.71,331.97,17262.39
+Manchester,Independent,36-45,Student,117,15.07,1762.98,793.34,41253.82
+Manchester,Independent,36-45,Professional,30,16.53,495.94,223.17,11605.08
+Manchester,Independent,36-45,Academic,35,16.68,583.88,262.75,13662.9
+Manchester,Independent,36-45,SciFi Enthusiast,78,11.49,896.39,403.37,20975.47
+Manchester,Independent,36-45,Collector,112,16.87,1889.09,850.09,44204.69
+Manchester,Independent,46-55,Student,78,11.76,917.43,412.84,21467.87
+Manchester,Independent,46-55,Professional,109,14.1,1536.55,691.45,35955.16
+Manchester,Independent,46-55,Academic,38,12.79,485.99,218.7,11372.27
+Manchester,Independent,46-55,SciFi Enthusiast,90,11.39,1025.54,461.49,23997.73
+Manchester,Independent,46-55,Collector,52,13.18,685.39,308.43,16038.13
+Manchester,Independent,56-65,Student,58,17.49,1014.64,456.59,23742.64
+Manchester,Independent,56-65,Professional,20,15.41,308.11,138.65,7209.78
+Manchester,Independent,56-65,Academic,76,10.91,828.99,373.05,19398.41
+Manchester,Independent,56-65,SciFi Enthusiast,42,14.33,601.93,270.87,14085.08
+Manchester,Independent,56-65,Collector,61,12.06,735.88,331.14,17219.49
+Manchester,Independent,65+,Student,35,16.54,578.82,260.47,13544.44
+Manchester,Independent,65+,Professional,79,12.09,954.84,429.68,22343.35
+Manchester,Independent,65+,Academic,20,10.74,214.9,96.7,5028.58
+Manchester,Independent,65+,SciFi Enthusiast,31,14.47,448.46,201.81,10493.89
+Manchester,Independent,65+,Collector,51,15.06,768.31,345.74,17978.35
+Birmingham,Waterstones,18-25,Student,88,9.67,851.24,297.94,15492.64
+Birmingham,Waterstones,18-25,Professional,226,12.36,2792.4,977.34,50821.61
+Birmingham,Waterstones,18-25,Academic,210,13.14,2758.97,965.64,50213.23
+Birmingham,Waterstones,18-25,SciFi Enthusiast,133,12.68,1686.34,590.22,30691.4
+Birmingham,Waterstones,18-25,Collector,231,13.11,3027.39,1059.59,55098.44
+Birmingham,Waterstones,26-35,Student,192,8.97,1722.2,602.77,31343.97
+Birmingham,Waterstones,26-35,Professional,245,12.01,2943.41,1030.19,53570.11
+Birmingham,Waterstones,26-35,Academic,191,8.61,1644.29,575.5,29926.01
+Birmingham,Waterstones,26-35,SciFi Enthusiast,178,13.84,2463.87,862.36,44842.49
+Birmingham,Waterstones,26-35,Collector,225,8.96,2017.09,705.98,36711.05
+Birmingham,Waterstones,36-45,Student,161,10.91,1757.1,614.99,31979.27
+Birmingham,Waterstones,36-45,Professional,242,11.91,2882.65,1008.93,52464.19
+Birmingham,Waterstones,36-45,Academic,248,9.06,2245.78,786.02,40873.14
+Birmingham,Waterstones,36-45,SciFi Enthusiast,147,9.42,1385.25,484.84,25211.62
+Birmingham,Waterstones,36-45,Collector,100,9.07,907.29,317.55,16512.74
+Birmingham,Waterstones,46-55,Student,207,12.47,2580.26,903.09,46960.73
+Birmingham,Waterstones,46-55,Professional,274,11.95,3273.12,1145.59,59570.7
+Birmingham,Waterstones,46-55,Academic,112,11.26,1260.59,441.21,22942.68
+Birmingham,Waterstones,46-55,SciFi Enthusiast,266,10.21,2714.87,950.21,49410.71
+Birmingham,Waterstones,46-55,Collector,198,9.5,1881.55,658.54,34244.19
+Birmingham,Waterstones,56-65,Student,237,13.84,3279.62,1147.87,59689.1
+Birmingham,Waterstones,56-65,Professional,188,10.92,2053.05,718.57,37365.42
+Birmingham,Waterstones,56-65,Academic,87,11.79,1025.45,358.91,18663.27
+Birmingham,Waterstones,56-65,SciFi Enthusiast,100,11.02,1101.58,385.55,20048.8
+Birmingham,Waterstones,56-65,Collector,107,12.01,1285.45,449.91,23395.18
+Birmingham,Waterstones,65+,Student,276,9.38,2589.19,906.22,47123.2
+Birmingham,Waterstones,65+,Professional,127,9.68,1229.95,430.48,22385.06
+Birmingham,Waterstones,65+,Academic,114,12.61,1437.69,503.19,26165.98
+Birmingham,Waterstones,65+,SciFi Enthusiast,96,13.97,1340.86,469.3,24403.67
+Birmingham,Waterstones,65+,Collector,237,13.72,3252.49,1138.37,59195.25
+Birmingham,Independent,18-25,Student,25,12.96,324.03,145.81,7582.34
+Birmingham,Independent,18-25,Professional,56,17.43,975.89,439.15,22835.75
+Birmingham,Independent,18-25,Academic,65,17.73,1152.66,518.7,26972.26
+Birmingham,Independent,18-25,SciFi Enthusiast,118,17.84,2105.43,947.44,49267.13
+Birmingham,Independent,18-25,Collector,82,12.45,1020.54,459.24,23880.57
+Birmingham,Independent,26-35,Student,51,16.81,857.26,385.77,20059.97
+Birmingham,Independent,26-35,Professional,86,11.36,976.61,439.47,22852.7
+Birmingham,Independent,26-35,Academic,44,13.16,578.93,260.52,13546.99
+Birmingham,Independent,26-35,SciFi Enthusiast,73,15.57,1136.48,511.42,26593.66
+Birmingham,Independent,26-35,Collector,65,10.78,700.53,315.24,16392.44
+Birmingham,Independent,36-45,Student,51,15.37,783.83,352.72,18341.54
+Birmingham,Independent,36-45,Professional,42,11.12,467.07,210.18,10929.4
+Birmingham,Independent,36-45,Academic,46,12.36,568.67,255.9,13306.81
+Birmingham,Independent,36-45,SciFi Enthusiast,109,15.93,1735.95,781.18,40621.24
+Birmingham,Independent,36-45,Collector,52,11.09,576.83,259.58,13497.93
+Birmingham,Independent,46-55,Student,67,14.42,966.31,434.84,22611.69
+Birmingham,Independent,46-55,Professional,61,16.47,1004.97,452.24,23516.26
+Birmingham,Independent,46-55,Academic,118,12.05,1421.86,639.84,33271.51
+Birmingham,Independent,46-55,SciFi Enthusiast,43,17.31,744.15,334.87,17413.22
+Birmingham,Independent,46-55,Collector,26,14.01,364.32,163.94,8524.98
+Birmingham,Independent,56-65,Student,64,11.55,739.47,332.76,17303.56
+Birmingham,Independent,56-65,Professional,27,15.62,421.62,189.73,9866.02
+Birmingham,Independent,56-65,Academic,35,10.41,364.22,163.9,8522.64
+Birmingham,Independent,56-65,SciFi Enthusiast,106,10.22,1083.42,487.54,25352.01
+Birmingham,Independent,56-65,Collector,117,10.75,1257.97,566.09,29436.43
+Birmingham,Independent,65+,Student,106,15.38,1629.88,733.45,38139.15
+Birmingham,Independent,65+,Professional,70,13.72,960.73,432.33,22481.2
+Birmingham,Independent,65+,Academic,82,17.85,1464.09,658.84,34259.65
+Birmingham,Independent,65+,SciFi Enthusiast,41,14.73,603.79,271.71,14128.76
+Birmingham,Independent,65+,Collector,105,12.0,1260.21,567.1,29488.94
+Liverpool,Waterstones,18-25,Student,249,12.94,3220.97,1127.34,58621.57
+Liverpool,Waterstones,18-25,Professional,133,11.22,1492.59,522.41,27165.17
+Liverpool,Waterstones,18-25,Academic,180,11.13,2004.02,701.41,36473.21
+Liverpool,Waterstones,18-25,SciFi Enthusiast,132,9.63,1271.06,444.87,23133.33
+Liverpool,Waterstones,18-25,Collector,187,11.74,2194.88,768.21,39946.87
+Liverpool,Waterstones,26-35,Student,275,13.05,3589.34,1256.27,65325.95
+Liverpool,Waterstones,26-35,Professional,195,10.47,2041.28,714.45,37151.37
+Liverpool,Waterstones,26-35,Academic,178,11.82,2104.78,736.67,38306.91
+Liverpool,Waterstones,26-35,SciFi Enthusiast,131,8.8,1152.34,403.32,20972.55
+Liverpool,Waterstones,26-35,Collector,193,11.1,2141.88,749.66,38982.14
+Liverpool,Waterstones,36-45,Student,237,8.25,1954.4,684.04,35570.04
+Liverpool,Waterstones,36-45,Professional,199,9.62,1915.37,670.38,34859.8
+Liverpool,Waterstones,36-45,Academic,171,12.46,2131.39,745.99,38791.26
+Liverpool,Waterstones,36-45,SciFi Enthusiast,169,8.15,1377.71,482.2,25074.24
+Liverpool,Waterstones,36-45,Collector,196,8.49,1663.11,582.09,30268.54
+Liverpool,Waterstones,46-55,Student,206,12.18,2508.22,877.88,45649.68
+Liverpool,Waterstones,46-55,Professional,208,9.04,1880.27,658.09,34220.94
+Liverpool,Waterstones,46-55,Academic,80,10.65,852.33,298.32,15512.39
+Liverpool,Waterstones,46-55,SciFi Enthusiast,175,11.3,1976.69,691.84,35975.72
+Liverpool,Waterstones,46-55,Collector,127,9.1,1155.34,404.37,21027.26
+Liverpool,Waterstones,56-65,Student,196,11.83,2318.61,811.51,42198.63
+Liverpool,Waterstones,56-65,Professional,268,12.43,3330.54,1165.69,60615.8
+Liverpool,Waterstones,56-65,Academic,270,10.61,2865.79,1003.03,52157.38
+Liverpool,Waterstones,56-65,SciFi Enthusiast,172,10.52,1809.03,633.16,32924.3
+Liverpool,Waterstones,56-65,Collector,155,11.4,1766.41,618.25,32148.75
+Liverpool,Waterstones,65+,Student,258,12.55,3237.15,1133.0,58916.05
+Liverpool,Waterstones,65+,Professional,264,10.05,2653.54,928.74,48294.38
+Liverpool,Waterstones,65+,Academic,299,8.28,2474.53,866.09,45036.42
+Liverpool,Waterstones,65+,SciFi Enthusiast,173,13.13,2271.97,795.19,41349.82
+Liverpool,Waterstones,65+,Collector,276,10.85,2993.23,1047.63,54476.82
+Liverpool,Independent,18-25,Student,109,16.11,1755.65,790.04,41082.3
+Liverpool,Independent,18-25,Professional,104,13.79,1433.93,645.27,33553.93
+Liverpool,Independent,18-25,Academic,52,13.72,713.3,320.99,16691.32
+Liverpool,Independent,18-25,SciFi Enthusiast,42,10.38,436.15,196.27,10205.86
+Liverpool,Independent,18-25,Collector,88,17.09,1504.22,676.9,35198.82
+Liverpool,Independent,26-35,Student,71,13.0,922.78,415.25,21593.05
+Liverpool,Independent,26-35,Professional,38,14.03,532.95,239.83,12471.11
+Liverpool,Independent,26-35,Academic,20,14.32,286.3,128.84,6699.43
+Liverpool,Independent,26-35,SciFi Enthusiast,23,14.93,343.32,154.49,8033.61
+Liverpool,Independent,26-35,Collector,99,15.14,1498.8,674.46,35071.83
+Liverpool,Independent,36-45,Student,111,14.69,1630.17,733.58,38145.95
+Liverpool,Independent,36-45,Professional,110,16.41,1804.84,812.18,42233.15
+Liverpool,Independent,36-45,Academic,31,13.11,406.27,182.82,9506.63
+Liverpool,Independent,36-45,SciFi Enthusiast,52,13.67,710.63,319.78,16628.82
+Liverpool,Independent,36-45,Collector,70,16.57,1159.56,521.8,27133.66
+Liverpool,Independent,46-55,Student,31,13.09,405.75,182.59,9494.63
+Liverpool,Independent,46-55,Professional,52,15.21,791.02,355.96,18509.81
+Liverpool,Independent,46-55,Academic,62,11.57,717.11,322.7,16780.43
+Liverpool,Independent,46-55,SciFi Enthusiast,32,11.72,374.93,168.72,8773.47
+Liverpool,Independent,46-55,Collector,65,10.15,659.48,296.76,15431.72
+Liverpool,Independent,56-65,Student,54,12.69,685.39,308.43,16038.16
+Liverpool,Independent,56-65,Professional,109,12.55,1368.15,615.67,32014.63
+Liverpool,Independent,56-65,Academic,45,15.45,695.38,312.92,16271.91
+Liverpool,Independent,56-65,SciFi Enthusiast,53,12.09,640.53,288.24,14988.51
+Liverpool,Independent,56-65,Collector,26,10.95,284.58,128.06,6659.13
+Liverpool,Independent,65+,Student,94,17.02,1599.86,719.94,37436.7
+Liverpool,Independent,65+,Professional,55,13.34,733.9,330.25,17173.17
+Liverpool,Independent,65+,Academic,55,11.42,628.07,282.63,14696.92
+Liverpool,Independent,65+,SciFi Enthusiast,92,14.55,1338.43,602.29,31319.28
+Liverpool,Independent,65+,Collector,118,17.92,2115.04,951.77,49491.86
+Leeds,Waterstones,18-25,Student,115,10.23,1176.69,411.84,21415.8
+Leeds,Waterstones,18-25,Professional,175,10.04,1757.84,615.25,31992.76
+Leeds,Waterstones,18-25,Academic,269,11.37,3058.85,1070.6,55671.12
+Leeds,Waterstones,18-25,SciFi Enthusiast,91,10.57,962.23,336.78,17512.6
+Leeds,Waterstones,18-25,Collector,92,12.44,1144.43,400.55,20828.62
+Leeds,Waterstones,26-35,Student,178,8.62,1534.14,536.95,27921.28
+Leeds,Waterstones,26-35,Professional,96,11.21,1075.77,376.52,19579.06
+Leeds,Waterstones,26-35,Academic,163,12.96,2112.28,739.3,38443.41
+Leeds,Waterstones,26-35,SciFi Enthusiast,165,9.79,1614.66,565.13,29386.79
+Leeds,Waterstones,26-35,Collector,98,10.34,1012.85,354.5,18433.88
+Leeds,Waterstones,36-45,Student,219,13.75,3011.52,1054.03,54809.73
+Leeds,Waterstones,36-45,Professional,226,8.55,1931.78,676.12,35158.48
+Leeds,Waterstones,36-45,Academic,278,13.74,3819.94,1336.98,69522.98
+Leeds,Waterstones,36-45,SciFi Enthusiast,207,10.9,2255.29,789.35,41046.3
+Leeds,Waterstones,36-45,Collector,190,8.5,1614.94,565.23,29391.98
+Leeds,Waterstones,46-55,Student,148,9.76,1444.37,505.53,26287.56
+Leeds,Waterstones,46-55,Professional,104,11.32,1177.51,412.13,21430.69
+Leeds,Waterstones,46-55,Academic,292,12.51,3654.16,1278.96,66505.72
+Leeds,Waterstones,46-55,SciFi Enthusiast,230,12.69,2918.19,1021.37,53111.03
+Leeds,Waterstones,46-55,Collector,118,8.55,1008.57,353.0,18356.05
+Leeds,Waterstones,56-65,Student,121,13.85,1675.3,586.36,30490.54
+Leeds,Waterstones,56-65,Professional,221,11.3,2496.68,873.84,45439.49
+Leeds,Waterstones,56-65,Academic,212,12.42,2633.51,921.73,47929.87
+Leeds,Waterstones,56-65,SciFi Enthusiast,154,8.7,1340.17,469.06,24391.09
+Leeds,Waterstones,56-65,Collector,155,12.13,1879.87,657.95,34213.6
+Leeds,Waterstones,65+,Student,265,11.71,3102.97,1086.04,56473.99
+Leeds,Waterstones,65+,Professional,86,10.56,907.86,317.75,16523.11
+Leeds,Waterstones,65+,Academic,247,8.44,2083.83,729.34,37925.79
+Leeds,Waterstones,65+,SciFi Enthusiast,257,13.35,3431.31,1200.96,62449.75
+Leeds,Waterstones,65+,Collector,273,8.49,2317.25,811.04,42173.94
+Leeds,Independent,18-25,Student,56,11.87,664.49,299.02,15548.98
+Leeds,Independent,18-25,Professional,27,12.99,350.84,157.88,8209.71
+Leeds,Independent,18-25,Academic,84,17.04,1431.6,644.22,33499.48
+Leeds,Independent,18-25,SciFi Enthusiast,36,17.58,632.81,284.76,14807.7
+Leeds,Independent,18-25,Collector,108,14.74,1591.39,716.13,37238.57
+Leeds,Independent,26-35,Student,55,13.01,715.55,322.0,16743.97
+Leeds,Independent,26-35,Professional,50,13.85,692.67,311.7,16208.4
+Leeds,Independent,26-35,Academic,73,15.64,1141.77,513.8,26717.4
+Leeds,Independent,26-35,SciFi Enthusiast,93,17.25,1604.33,721.95,37541.27
+Leeds,Independent,26-35,Collector,58,13.48,781.59,351.71,18289.1
+Leeds,Independent,36-45,Student,64,10.09,645.81,290.62,15112.03
+Leeds,Independent,36-45,Professional,111,14.57,1617.47,727.86,37848.75
+Leeds,Independent,36-45,Academic,39,10.95,427.07,192.18,9993.47
+Leeds,Independent,36-45,SciFi Enthusiast,80,16.58,1326.59,596.96,31042.11
+Leeds,Independent,36-45,Collector,58,15.97,926.16,416.77,21672.26
+Leeds,Independent,46-55,Student,96,11.9,1142.4,514.08,26732.28
+Leeds,Independent,46-55,Professional,82,13.82,1133.38,510.02,26521.11
+Leeds,Independent,46-55,Academic,44,16.95,745.75,335.59,17450.48
+Leeds,Independent,46-55,SciFi Enthusiast,57,13.49,768.97,346.04,17993.88
+Leeds,Independent,46-55,Collector,77,10.1,777.49,349.87,18193.2
+Leeds,Independent,56-65,Student,51,14.45,736.85,331.58,17242.29
+Leeds,Independent,56-65,Professional,66,17.13,1130.52,508.74,26454.25
+Leeds,Independent,56-65,Academic,104,17.94,1866.15,839.77,43667.83
+Leeds,Independent,56-65,SciFi Enthusiast,55,14.43,793.7,357.16,18572.48
+Leeds,Independent,56-65,Collector,39,10.6,413.54,186.09,9676.73
+Leeds,Independent,65+,Student,66,15.04,992.32,446.55,23220.35
+Leeds,Independent,65+,Professional,33,12.36,407.75,183.49,9541.27
+Leeds,Independent,65+,Academic,20,15.02,300.41,135.18,7029.58
+Leeds,Independent,65+,SciFi Enthusiast,22,17.21,378.6,170.37,8859.33
+Leeds,Independent,65+,Collector,76,17.32,1316.47,592.41,30805.51
+Bristol,Waterstones,18-25,Student,153,13.7,2096.48,733.77,38155.89
+Bristol,Waterstones,18-25,Professional,279,10.37,2892.43,1012.35,52642.22
+Bristol,Waterstones,18-25,Academic,231,11.72,2707.5,947.63,49276.57
+Bristol,Waterstones,18-25,SciFi Enthusiast,87,9.02,784.57,274.6,14279.23
+Bristol,Waterstones,18-25,Collector,243,10.78,2620.07,917.03,47685.32
+Bristol,Waterstones,26-35,Student,265,9.38,2484.74,869.66,45222.23
+Bristol,Waterstones,26-35,Professional,107,8.47,905.91,317.07,16487.48
+Bristol,Waterstones,26-35,Academic,120,9.56,1147.16,401.51,20878.38
+Bristol,Waterstones,26-35,SciFi Enthusiast,234,12.19,2852.22,998.28,51910.39
+Bristol,Waterstones,26-35,Collector,224,9.68,2168.0,758.8,39457.64
+Bristol,Waterstones,36-45,Student,291,11.62,3380.46,1183.16,61524.32
+Bristol,Waterstones,36-45,Professional,236,8.8,2076.59,726.81,37793.94
+Bristol,Waterstones,36-45,Academic,114,12.94,1474.62,516.12,26838.0
+Bristol,Waterstones,36-45,SciFi Enthusiast,161,10.5,1690.47,591.67,30766.61
+Bristol,Waterstones,36-45,Collector,276,11.68,3223.82,1128.34,58673.44
+Bristol,Waterstones,46-55,Student,273,8.5,2319.54,811.84,42215.66
+Bristol,Waterstones,46-55,Professional,109,13.2,1438.41,503.44,26178.99
+Bristol,Waterstones,46-55,Academic,188,8.99,1689.93,591.48,30756.78
+Bristol,Waterstones,46-55,SciFi Enthusiast,112,12.67,1418.55,496.49,25817.59
+Bristol,Waterstones,46-55,Collector,225,13.92,3132.82,1096.49,57017.37
+Bristol,Waterstones,56-65,Student,256,10.26,2626.67,919.33,47805.41
+Bristol,Waterstones,56-65,Professional,105,10.29,1079.96,377.99,19655.29
+Bristol,Waterstones,56-65,Academic,165,12.97,2140.87,749.31,38963.88
+Bristol,Waterstones,56-65,SciFi Enthusiast,256,13.03,3335.67,1167.49,60709.25
+Bristol,Waterstones,56-65,Collector,177,8.22,1455.1,509.29,26482.91
+Bristol,Waterstones,65+,Student,208,8.08,1681.06,588.37,30595.34
+Bristol,Waterstones,65+,Professional,134,13.19,1767.24,618.53,32163.71
+Bristol,Waterstones,65+,Academic,288,11.21,3227.35,1129.57,58737.78
+Bristol,Waterstones,65+,SciFi Enthusiast,212,13.98,2963.72,1037.3,53939.74
+Bristol,Waterstones,65+,Collector,260,11.51,2992.83,1047.49,54469.57
+Bristol,Independent,18-25,Student,72,17.56,1264.19,568.88,29581.93
+Bristol,Independent,18-25,Professional,93,13.02,1211.12,545.0,28340.23
+Bristol,Independent,18-25,Academic,104,13.6,1414.85,636.68,33107.55
+Bristol,Independent,18-25,SciFi Enthusiast,20,17.63,352.65,158.69,8251.97
+Bristol,Independent,18-25,Collector,96,11.66,1119.15,503.62,26188.13
+Bristol,Independent,26-35,Student,84,15.37,1291.38,581.12,30218.36
+Bristol,Independent,26-35,Professional,51,10.38,529.13,238.11,12381.73
+Bristol,Independent,26-35,Academic,114,10.91,1243.56,559.6,29099.41
+Bristol,Independent,26-35,SciFi Enthusiast,45,13.99,629.34,283.2,14726.54
+Bristol,Independent,26-35,Collector,73,16.18,1181.03,531.47,27636.19
+Bristol,Independent,36-45,Student,69,16.82,1160.4,522.18,27153.46
+Bristol,Independent,36-45,Professional,73,17.74,1295.3,582.88,30309.94
+Bristol,Independent,36-45,Academic,113,17.01,1922.49,865.12,44986.38
+Bristol,Independent,36-45,SciFi Enthusiast,76,14.72,1118.69,503.41,26177.42
+Bristol,Independent,36-45,Collector,66,13.36,882.04,396.92,20639.8
+Bristol,Independent,46-55,Student,104,15.11,1571.95,707.38,36783.6
+Bristol,Independent,46-55,Professional,94,11.7,1100.15,495.07,25743.49
+Bristol,Independent,46-55,Academic,57,14.94,851.47,383.16,19924.45
+Bristol,Independent,46-55,SciFi Enthusiast,117,12.8,1498.15,674.17,35056.71
+Bristol,Independent,46-55,Collector,117,15.09,1765.9,794.65,41322.04
+Bristol,Independent,56-65,Student,98,13.5,1322.98,595.34,30957.74
+Bristol,Independent,56-65,Professional,82,15.81,1296.52,583.43,30338.49
+Bristol,Independent,56-65,Academic,57,13.61,775.62,349.03,18149.39
+Bristol,Independent,56-65,SciFi Enthusiast,98,13.17,1290.89,580.9,30206.82
+Bristol,Independent,56-65,Collector,70,15.58,1090.68,490.81,25521.9
+Bristol,Independent,65+,Student,48,11.18,536.48,241.41,12553.54
+Bristol,Independent,65+,Professional,75,16.74,1255.25,564.86,29372.96
+Bristol,Independent,65+,Academic,36,12.07,434.37,195.47,10164.36
+Bristol,Independent,65+,SciFi Enthusiast,107,10.37,1109.26,499.17,25956.62
+Bristol,Independent,65+,Collector,25,13.94,348.52,156.84,8155.45
+Oxford,Waterstones,18-25,Student,284,9.25,2628.36,919.93,47836.13
+Oxford,Waterstones,18-25,Professional,122,9.44,1151.79,403.13,20962.52
+Oxford,Waterstones,18-25,Academic,194,11.22,2177.37,762.08,39628.22
+Oxford,Waterstones,18-25,SciFi Enthusiast,230,8.77,2016.7,705.85,36704.0
+Oxford,Waterstones,18-25,Collector,174,10.4,1809.91,633.47,32940.43
+Oxford,Waterstones,26-35,Student,223,11.85,2641.49,924.52,48075.13
+Oxford,Waterstones,26-35,Professional,183,12.18,2228.76,780.07,40563.41
+Oxford,Waterstones,26-35,Academic,104,13.38,1391.6,487.06,25327.05
+Oxford,Waterstones,26-35,SciFi Enthusiast,274,11.09,3039.05,1063.67,55310.67
+Oxford,Waterstones,26-35,Collector,239,9.03,2159.11,755.69,39295.74
+Oxford,Waterstones,36-45,Student,201,9.34,1877.96,657.29,34178.91
+Oxford,Waterstones,36-45,Professional,100,9.01,901.36,315.48,16404.77
+Oxford,Waterstones,36-45,Academic,171,10.09,1724.66,603.63,31388.76
+Oxford,Waterstones,36-45,SciFi Enthusiast,101,8.53,861.75,301.61,15683.92
+Oxford,Waterstones,36-45,Collector,80,11.21,896.52,313.78,16316.72
+Oxford,Waterstones,46-55,Student,91,9.24,840.66,294.23,15299.98
+Oxford,Waterstones,46-55,Professional,113,8.77,991.29,346.95,18041.5
+Oxford,Waterstones,46-55,Academic,297,12.14,3606.28,1262.2,65634.36
+Oxford,Waterstones,46-55,SciFi Enthusiast,152,8.55,1300.17,455.06,23663.08
+Oxford,Waterstones,46-55,Collector,126,11.77,1482.69,518.94,26985.01
+Oxford,Waterstones,56-65,Student,135,13.24,1787.6,625.66,32534.3
+Oxford,Waterstones,56-65,Professional,142,10.26,1457.45,510.11,26525.55
+Oxford,Waterstones,56-65,Academic,160,9.66,1545.8,541.03,28133.61
+Oxford,Waterstones,56-65,SciFi Enthusiast,80,8.51,680.57,238.2,12386.34
+Oxford,Waterstones,56-65,Collector,178,9.11,1621.07,567.37,29503.45
+Oxford,Waterstones,65+,Student,286,11.22,3208.79,1123.08,58399.97
+Oxford,Waterstones,65+,Professional,135,10.91,1472.46,515.36,26798.84
+Oxford,Waterstones,65+,Academic,297,12.56,3730.24,1305.58,67890.38
+Oxford,Waterstones,65+,SciFi Enthusiast,157,10.78,1691.71,592.1,30789.08
+Oxford,Waterstones,65+,Collector,188,8.37,1574.32,551.01,28652.64
+Oxford,Independent,18-25,Student,78,12.02,937.52,421.88,21937.98
+Oxford,Independent,18-25,Professional,26,15.5,402.93,181.32,9428.57
+Oxford,Independent,18-25,Academic,42,14.09,591.92,266.37,13851.01
+Oxford,Independent,18-25,SciFi Enthusiast,37,13.58,502.43,226.1,11756.96
+Oxford,Independent,18-25,Collector,118,13.18,1554.92,699.72,36385.19
+Oxford,Independent,26-35,Student,83,12.15,1008.78,453.95,23605.39
+Oxford,Independent,26-35,Professional,47,10.16,477.55,214.9,11174.59
+Oxford,Independent,26-35,Academic,76,16.73,1271.15,572.02,29744.95
+Oxford,Independent,26-35,SciFi Enthusiast,105,12.62,1325.1,596.29,31007.29
+Oxford,Independent,26-35,Collector,63,11.87,747.54,336.39,17492.46
+Oxford,Independent,36-45,Student,32,14.75,471.96,212.38,11043.86
+Oxford,Independent,36-45,Professional,87,12.84,1117.15,502.72,26141.37
+Oxford,Independent,36-45,Academic,37,10.7,395.73,178.08,9260.04
+Oxford,Independent,36-45,SciFi Enthusiast,105,14.69,1542.95,694.33,36104.95
+Oxford,Independent,36-45,Collector,27,14.69,396.69,178.51,9282.58
+Oxford,Independent,46-55,Student,102,13.03,1329.08,598.09,31100.44
+Oxford,Independent,46-55,Professional,25,17.2,429.93,193.47,10060.35
+Oxford,Independent,46-55,Academic,83,14.57,1209.0,544.05,28290.52
+Oxford,Independent,46-55,SciFi Enthusiast,75,13.99,1048.95,472.03,24545.4
+Oxford,Independent,46-55,Collector,89,14.85,1321.31,594.59,30918.69
+Oxford,Independent,56-65,Student,52,10.06,523.13,235.41,12241.34
+Oxford,Independent,56-65,Professional,40,11.22,448.91,202.01,10504.61
+Oxford,Independent,56-65,Academic,23,16.81,386.55,173.95,9045.28
+Oxford,Independent,56-65,SciFi Enthusiast,81,12.28,994.74,447.63,23276.96
+Oxford,Independent,56-65,Collector,114,10.45,1190.76,535.84,27863.69
+Oxford,Independent,65+,Student,28,10.64,297.97,134.09,6972.55
+Oxford,Independent,65+,Professional,50,13.28,664.16,298.87,15541.31
+Oxford,Independent,65+,Academic,55,17.98,988.79,444.96,23137.74
+Oxford,Independent,65+,SciFi Enthusiast,25,13.18,329.57,148.31,7711.96
+Oxford,Independent,65+,Collector,111,17.34,1924.65,866.09,45036.75
+Cambridge,Waterstones,18-25,Student,158,12.9,2038.58,713.5,37102.23
+Cambridge,Waterstones,18-25,Professional,192,10.94,2101.34,735.47,38244.44
+Cambridge,Waterstones,18-25,Academic,258,12.93,3334.69,1167.14,60691.42
+Cambridge,Waterstones,18-25,SciFi Enthusiast,273,11.34,3095.98,1083.59,56346.79
+Cambridge,Waterstones,18-25,Collector,215,10.86,2334.84,817.19,42494.07
+Cambridge,Waterstones,26-35,Student,252,12.62,3179.47,1112.82,57866.41
+Cambridge,Waterstones,26-35,Professional,149,13.81,2057.39,720.09,37444.44
+Cambridge,Waterstones,26-35,Academic,147,10.55,1551.23,542.93,28232.48
+Cambridge,Waterstones,26-35,SciFi Enthusiast,99,9.45,935.99,327.6,17035.04
+Cambridge,Waterstones,26-35,Collector,126,12.24,1542.67,539.93,28076.52
+Cambridge,Waterstones,36-45,Student,221,9.73,2150.72,752.75,39143.18
+Cambridge,Waterstones,36-45,Professional,116,11.04,1280.25,448.09,23300.52
+Cambridge,Waterstones,36-45,Academic,179,9.92,1776.37,621.73,32329.93
+Cambridge,Waterstones,36-45,SciFi Enthusiast,82,8.31,681.5,238.52,12403.25
+Cambridge,Waterstones,36-45,Collector,257,10.73,2756.48,964.77,50167.96
+Cambridge,Waterstones,46-55,Student,84,8.38,703.94,246.38,12811.73
+Cambridge,Waterstones,46-55,Professional,251,9.21,2311.81,809.13,42074.87
+Cambridge,Waterstones,46-55,Academic,247,12.86,3176.23,1111.68,57807.46
+Cambridge,Waterstones,46-55,SciFi Enthusiast,144,8.83,1271.94,445.18,23149.39
+Cambridge,Waterstones,46-55,Collector,152,12.56,1909.33,668.26,34749.77
+Cambridge,Waterstones,56-65,Student,282,10.84,3056.6,1069.81,55630.07
+Cambridge,Waterstones,56-65,Professional,117,10.47,1225.11,428.79,22297.04
+Cambridge,Waterstones,56-65,Academic,173,8.64,1494.75,523.16,27204.52
+Cambridge,Waterstones,56-65,SciFi Enthusiast,148,12.98,1921.59,672.56,34972.94
+Cambridge,Waterstones,56-65,Collector,257,8.75,2247.67,786.68,40907.53
+Cambridge,Waterstones,65+,Student,199,13.95,2775.17,971.31,50508.09
+Cambridge,Waterstones,65+,Professional,241,9.09,2190.06,766.52,39859.15
+Cambridge,Waterstones,65+,Academic,114,13.56,1545.69,540.99,28131.58
+Cambridge,Waterstones,65+,SciFi Enthusiast,143,11.45,1636.9,572.91,29791.54
+Cambridge,Waterstones,65+,Collector,143,12.69,1814.54,635.09,33024.62
+Cambridge,Independent,18-25,Student,30,16.36,490.86,220.89,11486.22
+Cambridge,Independent,18-25,Professional,33,16.4,541.08,243.49,12661.22
+Cambridge,Independent,18-25,Academic,54,11.31,610.96,274.93,14296.53
+Cambridge,Independent,18-25,SciFi Enthusiast,24,11.89,285.25,128.36,6674.92
+Cambridge,Independent,18-25,Collector,97,14.18,1375.9,619.15,32196.03
+Cambridge,Independent,26-35,Student,23,12.53,288.18,129.68,6743.42
+Cambridge,Independent,26-35,Professional,61,13.14,801.51,360.68,18755.41
+Cambridge,Independent,26-35,Academic,59,13.62,803.32,361.49,18797.68
+Cambridge,Independent,26-35,SciFi Enthusiast,33,17.2,567.51,255.38,13279.79
+Cambridge,Independent,26-35,Collector,57,14.32,816.14,367.26,19097.68
+Cambridge,Independent,36-45,Student,82,14.02,1149.78,517.4,26904.96
+Cambridge,Independent,36-45,Professional,44,12.84,565.09,254.29,13223.05
+Cambridge,Independent,36-45,Academic,85,14.35,1219.62,548.83,28539.01
+Cambridge,Independent,36-45,SciFi Enthusiast,70,14.34,1004.0,451.8,23493.5
+Cambridge,Independent,36-45,Collector,89,17.52,1559.16,701.62,36484.36
+Cambridge,Independent,46-55,Student,26,15.84,411.95,185.38,9639.73
+Cambridge,Independent,46-55,Professional,61,11.11,677.96,305.08,15864.38
+Cambridge,Independent,46-55,Academic,34,17.03,578.99,260.54,13548.3
+Cambridge,Independent,46-55,SciFi Enthusiast,52,14.27,741.92,333.86,17360.92
+Cambridge,Independent,46-55,Collector,46,16.31,750.2,337.59,17554.77
+Cambridge,Independent,56-65,Student,57,16.02,913.1,410.89,21366.44
+Cambridge,Independent,56-65,Professional,46,15.95,733.77,330.2,17170.27
+Cambridge,Independent,56-65,Academic,87,14.56,1266.64,569.99,29639.45
+Cambridge,Independent,56-65,SciFi Enthusiast,29,13.95,404.6,182.07,9467.73
+Cambridge,Independent,56-65,Collector,93,12.74,1184.51,533.03,27717.51
+Cambridge,Independent,65+,Student,57,14.29,814.64,366.59,19062.47
+Cambridge,Independent,65+,Professional,66,16.77,1106.93,498.12,25902.09
+Cambridge,Independent,65+,Academic,107,14.83,1586.99,714.14,37135.52
+Cambridge,Independent,65+,SciFi Enthusiast,34,16.38,556.86,250.59,13030.63
+Cambridge,Independent,65+,Collector,24,13.89,333.38,150.02,7801.11
